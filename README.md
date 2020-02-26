@@ -1,4 +1,4 @@
-# Python scripts 
+# Python simple scripts 
 This repository comprises of very simple  Python programs. 
 You can learn basic to advanced level of Python Programming through the codes included in here. 
 These codes can be useful for Python beginners and even advanced user. 
